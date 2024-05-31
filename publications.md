@@ -35,6 +35,22 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, D. Fang, L. Ai, "Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube", ***Journal of Intelligent Construction, 2024***.
 
+---
+
+## Published Conference Proceedings
+
+---
+
+## Patent
+
+- **<u>P. Ni</u>**, "Algae removing device for secondary sedimentation tank effluent weir of sewage treatment plant", ***CN114797193A, Jul 29, 2022***.
+
+- **<u>P. Ni</u>**, "Numerical control flame cutting ultra-narrow lath blanking device", ***CN217571226U, Oct 14, 2022***.
+
+- **<u>P. Ni</u>**, "Waste empty barrel recycling and flattening device", ***CN217574207U, Oct 14, 2022".
+
+- **<u>P. Ni</u>**, "Hydrodynamic ozone gas supercharging device", ***CN217173377U, Aug 12, 2022***.
+
 
 ## Thesis (FYP)
 
