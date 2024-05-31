@@ -19,7 +19,7 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, D. Fang, L. Ai, J. Tan, C. Wang, "Dynamic Mode Decomposition Analysis of Human Skeleton Movement Variability", ***SIAM Journal on Applied Dynamical Systems***, under review.
 
-- <u>X. Cai, X. Ren (contributed equally)</u>, **<u>P. Ni</u>**, X. Zhong, Z. Zhu, M. Yang, "Design and numerical simulation study of Open-Loop Geothermal Systems with different well networks", ***Energy***, under review.
+- <span class="u-underline">X. Cai, X. Ren (contributed equally)</span>, **<u>P. Ni</u>**, X. Zhong, Z. Zhu, M. Yang, "Design and numerical simulation study of Open-Loop Geothermal Systems with different well networks", ***Energy***, under review.
 
 
 
