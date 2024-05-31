@@ -47,7 +47,7 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, "Numerical control flame cutting ultra-narrow lath blanking device", ***CN217571226U, Oct 14, 2022***.
 
-- **<u>P. Ni</u>**, "Waste empty barrel recycling and flattening device", ***CN217574207U, Oct 14, 2022".
+- **<u>P. Ni</u>**, "Waste empty barrel recycling and flattening device", ***CN217574207U, Oct 14, 2022***.
 
 - **<u>P. Ni</u>**, "Hydrodynamic ozone gas supercharging device", ***CN217173377U, Aug 12, 2022***.
 
