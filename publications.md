@@ -9,15 +9,17 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, D. Fang, X. Cai, L. Ai, J. Tan, "Numerical Study of Bionic Fish with Different Tail Shapes", Target Journal: ***Physics of Fluids***, in preparation.
 
-- **P. Ni**, D. Fang, L. Ai, J. Tan, "Hydrodynamic analysis of an offshore photovoltaic group with mooring system", Target Journal: ***Ocean Engineering***, in preparation. 
+- **<u>P. Ni</u>**, D. Fang, L. Ai, J. Tan, "Hydrodynamic analysis of an offshore photovoltaic group with mooring system", Target Journal: ***Ocean Engineering***, in preparation. 
 
 ---
 
 ## Under Review
 
-- **P. Ni**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings", ***Physics of Fluids***, under review.
+- **<u>P. Ni</u>**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings", ***Physics of Fluids***, under review.
 
-- **P. Ni**, D. Fang, L. Ai, J. Tan, C. Wang, "Dynamic Mode Decomposition Analysis of Human Skeleton Movement Variability", ***SIAM Journal on Applied Dynamical Systems***, under review.
+- **<u>P. Ni</u>**, D. Fang, L. Ai, J. Tan, C. Wang, "Dynamic Mode Decomposition Analysis of Human Skeleton Movement Variability", ***SIAM Journal on Applied Dynamical Systems***, under review.
+
+- <u>X. Cai, X, Ren (contributed equally), </u>, **<u>P. Ni</u>**, "Design and numerical simulation study of Open-Loop Geothermal Systems with different well networks", ***Energy***, under review.
 
 
 ## Thesis (FYP)
