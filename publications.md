@@ -19,9 +19,13 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, D. Fang, L. Ai, J. Tan, C. Wang, "Dynamic Mode Decomposition Analysis of Human Skeleton Movement Variability", ***SIAM Journal on Applied Dynamical Systems***, under review.
 
-- <span class="u-underline">X. Cai, X. Ren (contributed equally)</span>, **<u>P. Ni</u>**, X. Zhong, Z. Zhu, M. Yang, "Design and numerical simulation study of Open-Loop Geothermal Systems with different well networks", ***Energy***, under review.
+- <u>X. Cai, X. Ren (contributed equally)</u>, **<u>P. Ni</u>**, X. Zhong, Z. Zhu, M. Yang, "Design and numerical simulation study of Open-Loop Geothermal Systems with different well networks", ***Energy***, under review.
 
+- B. Qin, X. Cai, **<u>P. Ni</u>**, Y. Zhang, M. Zhang, C. Wang, "Prediction of the minimum miscibility pressure for CO2 flooding based on a physical information network algorithm", ***Nondestructive Testing and Evaluation***, under review.
 
+- Y. Zhou, J. Zhang, **<u>P. Ni</u>**, Q. Cao, J. Hu, "A Customized ConvNeXt-SCC Network: Integrating Improved Principal Component Analysis with ConvNeXt to Enhance Tire Crown Defect Detection", ***Nondestructive Testing and Evaluation***, under review.
+
+- S. Li, X. Hu, M. Cheng, J. Wang, **<u>P. Ni</u>**, X. Ye, "Characteristics of Road Freezing and Thawing Environments in China Oriented Towards Construction and Maintenance", ***Measurement Science and Technology***, under review.
 
 
 ## Thesis (FYP)
