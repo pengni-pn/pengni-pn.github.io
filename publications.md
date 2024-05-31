@@ -4,7 +4,9 @@ permalink: /publications/index.html
 title: Publications
 ---
 # Publications
+
 The data and codes which are not publicly released might be available upon request
+
 ## In Preparation
 
 - **<u>P. Ni</u>**, D. Fang, X. Cai, L. Ai, J. Tan, "Numerical Study of Bionic Fish with Different Tail Shapes", Target Journal: ***Physics of Fluids***, in preparation.
@@ -26,6 +28,12 @@ The data and codes which are not publicly released might be available upon reque
 - Y. Zhou, J. Zhang, **<u>P. Ni</u>**, Q. Cao, J. Hu, "A Customized ConvNeXt-SCC Network: Integrating Improved Principal Component Analysis with ConvNeXt to Enhance Tire Crown Defect Detection", ***Nondestructive Testing and Evaluation***, under review.
 
 - S. Li, X. Hu, M. Cheng, J. Wang, **<u>P. Ni</u>**, X. Ye, "Characteristics of Road Freezing and Thawing Environments in China Oriented Towards Construction and Maintenance", ***Measurement Science and Technology***, under review.
+
+---
+
+## Published Journal Articles
+
+- **<u>P. Ni</u>**, D. Fang, L. Ai, "Numerical Investigation of Three-Dimensional Incompressible Fluid Flow in Curved Elastic Tube", ***Journal of Intelligent Construction, 2024***.
 
 
 ## Thesis (FYP)
