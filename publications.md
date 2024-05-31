@@ -7,15 +7,15 @@ title: Publications
 The data and codes which are not publicly released might be available upon request
 ## In Preparation
 
-- **[P. Ni]**, D. Fang, X. Cai, L. Ai, J. Tan, "Numerical Study of Bionic Fish with Different Tail Shapes", Target Journal: ***Physics of Fluids***, in preparation.
+- [**P. Ni**], D. Fang, X. Cai, L. Ai, J. Tan, "Numerical Study of Bionic Fish with Different Tail Shapes", Target Journal: ***Physics of Fluids***, in preparation.
 
-- **P. Ni**, D. Fang, L. Ai, J. Tan, "Hydrodynamic analysis of an offshore photovoltaic group with mooring system", Target Journal: Ocean Engineering, in preparation. 
+- **P. Ni**, D. Fang, L. Ai, J. Tan, "Hydrodynamic analysis of an offshore photovoltaic group with mooring system", Target Journal: ***Ocean Engineering***, in preparation. 
 
 ---
 
 ## Under Review
 
-- **P. Ni**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings"
+- **P. Ni**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings", ***Physics of Fluids***, under review
 
 ## Thesis (FYP)
 
