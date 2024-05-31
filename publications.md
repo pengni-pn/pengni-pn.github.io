@@ -15,7 +15,10 @@ The data and codes which are not publicly released might be available upon reque
 
 ## Under Review
 
-- **P. Ni**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings", ***Physics of Fluids***, under review
+- **P. Ni**, D. Fang, L. Ai, J. Ma, J. Tan, "Stability Analysis of Floating Offshore Seamark Including Moorings", ***Physics of Fluids***, under review.
+
+- **P. Ni**, D. Fang, L. Ai, J. Tan, C. Wang, "Dynamic Mode Decomposition Analysis of Human Skeleton Movement Variability", ***SIAM Journal on Applied Dynamical Systems***, under review.
+
 
 ## Thesis (FYP)
 
