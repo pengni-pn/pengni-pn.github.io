@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-## Publications
+# Publications
 The data and codes which are not publicly released might be available upon request
 ## Conference Paper
 
