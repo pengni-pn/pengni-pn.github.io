@@ -41,7 +41,7 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, “Strength Analysis of Shock Strut of Aircraft Landing Gear Based on ANSYS”, ***2022 IEEE 10th Conference on Systems, Process and Control, ICSPC 2022***.
 
-- **<u>P. Ni</u>**, Y. Jiang, "Design and Crash Simulation Research of High-Performance Movable Steel Anti-Collision Barrel Combined with Wave-Shaped Anti-Collision Beam Design", ***2022 2nd International Conference on Computational Modeling, Simulation and Data Analysis, CMSDA 2022***.
+- **<u>P. Ni</u>**, Y. Jiang, "Design and Crash Simulation Research of High-Performance Movable Steel Anti-Collision Barrel Combined with Wave-Shaped Anti-Collision Beam Design", ***CMSDA 2022***.
 ---
 
 ## Patent
@@ -58,7 +58,7 @@ The data and codes which are not publicly released might be available upon reque
 
 ## Thesis (FYP)
 
-- Master's thesis: 
+- Master's thesis: **<u>P. Ni</u>**, "3D Printing Thermoplastic Elastomer Material and Its Application in Soft Robots, Supervised by Prof. Liyong Tong, ***Result: 80/100 (Distinction)***.
 
 - Bachelor's thesis: **<u>P. Ni</u>**, "Study on the Organization and Anti-wear Properties of M42 Punch HSS", Supervised by Prof. Ru Su, ***Result: 85.1/100 (Outstanding Graduation Thesis Award)***.
 
