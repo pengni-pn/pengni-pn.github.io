@@ -14,7 +14,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
+- **Aug 2023 - Future：**The Hongkong University of Science and Technology - Guangzhou Campus (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui))
 - **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
 - **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
 - **June 2022 - Nov 2022:** Cambridge University (Internship)
