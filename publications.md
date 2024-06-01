@@ -41,7 +41,8 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, “Strength Analysis of Shock Strut of Aircraft Landing Gear Based on ANSYS”, ***2022 IEEE 10th Conference on Systems, Process and Control, ICSPC 2022***.
 
-- **<u>P. Ni</u>**, Y. Jiang, "Design and Crash Simulation Research of High-Performance Movable Steel Anti-Collision Barrel Combined with Wave-Shaped Anti-Collision Beam Design", ***CMSDA 2022***.
+- **<u>P. Ni</u>**, Y. Jiang, "Design and Crash Simulation Research of High-Performance Movable Steel Anti-Collision Barrel Combined with Wave-Shaped Anti-Collision Beam Design".
+
 ---
 
 ## Patent
@@ -56,30 +57,9 @@ The data and codes which are not publicly released might be available upon reque
 
 ---
 
-## Thesis (FYP)
+## Previous Thesis
 
 - Master's thesis: **<u>P. Ni</u>**, "3D Printing Thermoplastic Elastomer Material and Its Application in Soft Robots, Supervised by Prof. Liyong Tong, ***Result: 80/100 (Distinction)***.
 
 - Bachelor's thesis: **<u>P. Ni</u>**, "Study on the Organization and Anti-wear Properties of M42 Punch HSS", Supervised by Prof. Ru Su, ***Result: 85.1/100 (Outstanding Graduation Thesis Award)***.
 
----
-
-## Manuscript
-
-- Detecting Multiple-mix-attack in IoT Networks through Reconstruction and Classification Machine Learning Techniques<br>
-
-- Multi-objective Optimization Model Based on Human-Land Relationship Coupling: A Case Study of the Masai Mara National Reserve<br>
-
-  <br>
-
----
-
-## Early Project
-
-- [Securing Billion Bluetooth Devices leveraging Learning-based Techniques](https://www.researchgate.net/publication/378144932)<br>*Final year project (FYP).*<br>**Hanlin Cai** (Advisors: Zhezhuang Xu, Tozammel Hossain)<br>AAAI Conference on Artificial Intelligence. Undergraduate Consortium ([AAAI 2024 UC](https://aaai.org/aaai-conference/undergraduate-consortium-program/))<br>Vancouver, Canada. February, 2024.
-
-- Optimizing Traffic Sign Detection System Using Deep Residual Neural Networks Combined with Analytic Hierarchy Process Model<br>*Junior year course design, early project.*<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>The 28th International Conference on Artificial Life and Robotics (ICAROB 2023)<br>Beppu, Japan. February, 2023.<br>Recommended for expanding publication in the Journal of Advances in Artificial Life Robotics (EI Compendex).
-
-- An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
-
-  <br>
