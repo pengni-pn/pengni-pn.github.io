@@ -17,17 +17,19 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Aug 2023 - Future：**The Hongkong University of Science and Technology - Guangzhou Campus, Guangzhou, China (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui)).
 - **Feb 2022 - Aug 2023:** The University of Sydney, Sydney, Australia (M.E in mechanical engineering, supervised by [Prof. Liyong Tong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/liyong-tong.html)).
 - **Sep 2017 - June 2021:** The University of Waikato, Hamilton, New Zealand (joint programm).
-- **Sep 2017 - June 2021:** Hebei Univeristy of Science and Technology, Shijiazhuang, China (BE in metal material engineering).
+- **Sep 2017 - June 2021:** Hebei Univeristy of Science and Technology, Shijiazhuang, China (B.E in metal material engineering).
 
 ---
 
 ## Research Interests
 
-- Internet of Everything
-- Cyber-Physical System
-- Industrial Informatics
+- Numerical simulation in everything
+- Finit element method
+- Computational fluid dynamics
+- Fluid-solid (FSI) coupling
 - Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗
+- Nonlinear dynamic system
+- 3D printing and penumatic actuator (Topology-optimized structure)
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
