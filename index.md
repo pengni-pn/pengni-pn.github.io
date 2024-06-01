@@ -14,10 +14,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-- **Aug 2023 - Future：**The Hongkong University of Science and Technology - Guangzhou Campus (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Aug 2023 - Future：**The Hongkong University of Science and Technology - Guangzhou Campus, Guangzhou, China (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui)).
+- **Feb 2022 - Aug 2023:** The University of Sydney, Sydney, Australia (M.E in mechanical engineering, supervised by [Prof. Liyong Tong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/liyong-tong.html)).
+- **Sep 2017 - June 2021:** The University of Waikato, Hamilton, New Zealand (joint programm).
+- **Sep 2017 - June 2021:** Hebei Univeristy of Science and Technology, Shijiazhuang, China (BE in metal material engineering).
 
 ---
 
