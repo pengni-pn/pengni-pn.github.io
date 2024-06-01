@@ -39,6 +39,9 @@ The data and codes which are not publicly released might be available upon reque
 
 ## Published Conference Proceedings
 
+- **<u>P. Ni</u>**，“Strength Analysis of Shock Strut of Aircraft Landing Gear Based on ANSYS”, ***2022 IEEE 10th Conference on Systems, Process and Control, ICSPC 2022***.
+
+- **<u>P. Ni</u>**，Y. Jiang, "Design and Crash Simulation Research of High-Performance Movable Steel Anti-Collision Barrel Combined with Wave-Shaped Anti-Collision Beam Design", ***2022 2nd International Conference on Computational Modeling, Simulation and Data Analysis, CMSDA 2022***
 ---
 
 ## Patent
@@ -51,6 +54,7 @@ The data and codes which are not publicly released might be available upon reque
 
 - **<u>P. Ni</u>**, "Hydrodynamic ozone gas supercharging device", ***CN217173377U, Aug 12, 2022***.
 
+---
 
 ## Thesis (FYP)
 
