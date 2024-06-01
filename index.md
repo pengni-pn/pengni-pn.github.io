@@ -37,7 +37,7 @@ My fields of research include **multi-physics simulation**, **fluid-solid intera
 
 ## News and Updates
 
-- **May. 2024：**Withdrawal from the Hong Kong University of Science and Technology, and got new Ph.D offer from The University of Syeny.
+- **May. 2024：**Withdrawal from the Hong Kong University of Science and Technology, and got new Ph.D offer from The University of Sydney.
 
 - **Aug. 2023：**Very excited to start my Ph.D. academic journey in the Engineering Thrust of Smart Manufacturing at The Hong Kong University of Science and Technology! 🎉
 
