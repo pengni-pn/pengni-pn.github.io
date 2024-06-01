@@ -8,16 +8,16 @@ layout: page
 
 Here is **Peng Ni**.
 
-I am a senior undergrad majoring in EECS at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
+I am currently working at the Smart Manufacturing Thrust, Systems Hub, The Hong Kong University of Science and Technology, and the ROME3D Laboratory as a Ph.D studnet. I recived my Master from The University of Sydney in 2023 under the supervision of Prof. Liyong Tong. Skilled in MATLAB, Python, Structural Optimization, and FEA simulations.
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *pengni0316[at]gmail[dot]com*
 
 ## Academic Background
 
-- **Aug 2023 - Future：**The Hongkong University of Science and Technology - Guangzhou Campus, Guangzhou, China (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui)).
-- **Feb 2022 - Aug 2023:** The University of Sydney, Sydney, Australia (M.E in mechanical engineering, supervised by [Prof. Liyong Tong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/liyong-tong.html)).
-- **Sep 2017 - June 2021:** The University of Waikato, Hamilton, New Zealand (joint programm).
-- **Sep 2017 - June 2021:** Hebei Univeristy of Science and Technology, Shijiazhuang, China (B.E in metal material engineering).
+- **Aug. 2023 - Future：**The Hong Kong University of Science and Technology - Guangzhou Campus, Guangzhou, China (Ph.D student of smart manufacturing, supervised by [Prof. Huachen Cui](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page/CUI-Huachen/hccui)).
+- **Feb. 2022 - Aug. 2023:** The University of Sydney, Sydney, Australia (M.E in mechanical engineering, supervised by [Prof. Liyong Tong](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/liyong-tong.html)).
+- **Sep. 2017 - Jun. 2021:** The University of Waikato, Hamilton, New Zealand (joint programm).
+- **Sep. 2017 - Jun. 2021:** Hebei Univeristy of Science and Technology, Shijiazhuang, China (B.E in metal material engineering).
 
 ---
 
@@ -31,21 +31,20 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Nonlinear dynamic system
 - 3D printing and penumatic actuator (Topology-optimized structure)
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My fields of research include **multi-physics simulation**, **fluid-solid interaction**, **reduced order model** and **data analysis**, applications of **machine learning** on engineering problems. Additionally, in the field of mechanics, I have a strong interest in **topology optimization** for **soft robots** and possess extensive experience in **3D printing**, as well as the design of **metamaterial** structures.
 
 ---
 
 ## News and Updates
 
-- **May 2024：**My undergraduate thesis won the Best Project Award (Top 1/300) 🎉
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Dec 2023：**Got a MSc offer from the physics department of Imperial College London.
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **May. 2024：**Withdrawal from the Hong Kong University of Science and Technology, and got new Ph.D offer from The University of Syeny.
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- **Aug. 2023：**Very excited to start my Ph.D. academic journey in the Engineering Thrust of Smart Manufacturing at The Hong Kong University of Science and Technology! 🎉
+
+- **May. 2023：**Happy to have passed the master's thesis on the seminar day and to have completed all the requirements for the master's degree!
+
+- **Feb. 2023：**Very excited to share that I completed my Vacation Research Internship Program - Summer 2022 to 2023 on the topic of 'Design and testing of 3D printed pneumatic soft robot' and won a 4000 AUD scholarship.
+
+- **Jan. 2023：**ORAL and POSTER at the Sydney University Seminar about soft robots.
+
 
