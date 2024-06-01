@@ -8,7 +8,7 @@ layout: page
 
 Here is **Peng Ni**.
 
-I am currently working at the Smart Manufacturing Thrust, Systems Hub, The Hong Kong University of Science and Technology, and the ROME3D Laboratory as a Ph.D studnet. I recived my Master from The University of Sydney in 2023 under the supervision of Prof. Liyong Tong. Skilled in MATLAB, Python, Structural Optimization, and FEA simulations.
+I am currently working at the Smart Manufacturing Thrust, Systems Hub, The Hong Kong University of Science and Technology, and the ROME3D Laboratory as a Ph.D studnet. I recived my Master from The University of Sydney in 2023 under the supervision of Prof. Liyong Tong. My Skilled in MATLAB, Python, Structural Optimization, and FEA simulations.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *pengni0316[at]gmail[dot]com*
 
